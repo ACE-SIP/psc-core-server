@@ -1,0 +1,7 @@
+{
+  "field_mapper" :{
+    "field1": "temperature", "field2": "humidity", "field3": "ambient_light","wifi": "wifi"
+  },
+  "response": {"temperature": [], "humidity": [], "ambient_light": [], "created_at": [],"channel_id": "",
+               "product_id": "", "serial": "", "ssid_base64": "","wifi": [],"status": ""}
+}
